@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/snowmailbox-deploy/static/js/main.a9ee6aca.js",
+    "static/js/787.3f7c9df0.chunk.js": "/snowmailbox-deploy/static/js/787.3f7c9df0.chunk.js",
+    "static/media/back.svg": "/snowmailbox-deploy/static/media/back.070f30d6b0b4c203941a2320ac42dcaf.svg",
+    "static/media/gift.png": "/snowmailbox-deploy/static/media/gift.f1034c8b482cfdbc7e65.png",
+    "static/media/santa1.png": "/snowmailbox-deploy/static/media/santa1.bfd1cae92b3e205ebf60.png",
+    "static/media/santa4.png": "/snowmailbox-deploy/static/media/santa4.78501febac5b2fa827c3.png",
+    "static/media/santa3.png": "/snowmailbox-deploy/static/media/santa3.c76d33292c57092b2978.png",
+    "static/media/ginger.png": "/snowmailbox-deploy/static/media/ginger.c31a74bf0d00aebd0f81.png",
+    "static/media/santa2.png": "/snowmailbox-deploy/static/media/santa2.2fe73551f570be9e2db3.png",
+    "static/media/snowman.png": "/snowmailbox-deploy/static/media/snowman.9f39df6b94f9501a08ac.png",
+    "static/media/santa_glasses.png": "/snowmailbox-deploy/static/media/santa_glasses.c7b997fadcf83f9fd5c9.png",
+    "static/media/santa5.png": "/snowmailbox-deploy/static/media/santa5.56d4f008336f6a83aec6.png",
+    "static/media/tree.png": "/snowmailbox-deploy/static/media/tree.97ef87da9fea7550799d.png",
+    "static/media/snowman_angle.png": "/snowmailbox-deploy/static/media/snowman_angle.1670bf0fa77fa726a49f.png",
+    "static/media/santa.png": "/snowmailbox-deploy/static/media/santa.612701654a2c27a85671.png",
+    "static/media/sock.png": "/snowmailbox-deploy/static/media/sock.619a8a6aa62010664923.png",
+    "static/media/hand_gift.png": "/snowmailbox-deploy/static/media/hand_gift.eff70bcfdab238917e58.png",
+    "static/media/hand_gift_a.png": "/snowmailbox-deploy/static/media/hand_gift_a.fd0d54f3c990d199355b.png",
+    "static/media/calendar.png": "/snowmailbox-deploy/static/media/calendar.541a0f8d35ef0f13b77d.png",
+    "static/media/christmas-ball.png": "/snowmailbox-deploy/static/media/christmas-ball.44297a9e4ffa5093d1c3.png",
+    "static/media/bell.png": "/snowmailbox-deploy/static/media/bell.76f937a9fbfde3ad9e5b.png",
+    "static/media/wreath.png": "/snowmailbox-deploy/static/media/wreath.ce0ceeeb195adc1917c7.png",
+    "static/media/leaf.png": "/snowmailbox-deploy/static/media/leaf.77f9254e2f0493ab1d9f.png",
+    "static/media/star.png": "/snowmailbox-deploy/static/media/star.6d88e50bdfc4b26ad241.png",
+    "static/media/snowflake.png": "/snowmailbox-deploy/static/media/snowflake.4eb9875abc4558397b16.png",
+    "index.html": "/snowmailbox-deploy/index.html",
+    "main.a9ee6aca.js.map": "/snowmailbox-deploy/static/js/main.a9ee6aca.js.map",
+    "787.3f7c9df0.chunk.js.map": "/snowmailbox-deploy/static/js/787.3f7c9df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a9ee6aca.js"
+  ]
+}
