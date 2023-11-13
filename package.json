@@ -2,7 +2,7 @@
   "name": "snow-mailbox",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2ujin.github.io/snowmailbox-deploy",
+  "homepage": "https://2ujin.github.io/SnowMailbox-deploy",
   "dependencies": {
     "@react-oauth/google": "^0.11.1",
     "@testing-library/jest-dom": "^5.17.0",
